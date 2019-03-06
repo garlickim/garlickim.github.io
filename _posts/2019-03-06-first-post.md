@@ -12,7 +12,7 @@ tags: featured
 
 톰캣 대부분의 튜닝은 파라미터는 server.xml에 정의된다.
 Connector 설정에 추가
-> <a>http://tomcat.apache.org/tomcat-8.5-doc/config/http.html</a> 참고
+> <a href="http://tomcat.apache.org/tomcat-8.5-doc/config/http.html">http://tomcat.apache.org/tomcat-8.5-doc/config/http.html</a> 참고
 
 ---------------------------------------
 
@@ -29,6 +29,6 @@ Connector 설정에 추가
 ---------------------------------------
 
 **참고. NIO/APR 설명**
-> <a>http://palpit.tistory.com/645</a>
-> <a>https://gs.saro.me/#!m=elec&jn=535</a>
-> <a>http://gyrfalcon.tistory.com/entry/JAVA-NIO</a>
+> <a href="http://palpit.tistory.com/645">http://palpit.tistory.com/645</a>
+> <a href="https://gs.saro.me/#!m=elec&jn=535">https://gs.saro.me/#!m=elec&jn=535</a>
+> <a href="http://gyrfalcon.tistory.com/entry/JAVA-NIO">http://gyrfalcon.tistory.com/entry/JAVA-NIO</a>
