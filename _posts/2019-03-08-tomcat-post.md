@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Apache Tomcat Tuning_2"
+title:  "Apache Tomcat Tuning_3"
 date:   2019-03-08 13:00:25
 categories: tomcat
 tags: featured
@@ -25,5 +25,5 @@ tags: featured
   
   ![catalinalogImg](./image/catalinaLog.JPG)
   
-4. 추가적으로 log level를 수정하고 싶다면 tomcat/conf/ 하위의 logging.properties 파일 수정.
+4. 추가적으로 log level를 수정하고 싶다면 tomcat/conf/ 하위의 logging.properties 파일 수정<br>
 level 은 다음과 같이 ALL, FINEST, FINER, FINE, CONFIG, INFO, WARNING, SEVERE를 지원하며 오른쪽으로 갈수록 로그량이 적다.
