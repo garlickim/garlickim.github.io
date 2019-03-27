@@ -13,12 +13,12 @@ Javascript에서 사용자 플랫폼(PC/Mobile 여부)를 판단하여 처리하
 
 $(document).ready(function(){
 	
-	checkMobileAndSend();
+	checkUserPlatform();
 	
 });
 
 // 사용자 플랫폼이 PC인지 Mobile인지 판단하여 그에 따른 로직 처리
-function checkMobileAndSend(){
+function checkUserPlatform(){
 	
 	var filter = "win16|win32|win64|mac|macintel";
 	
