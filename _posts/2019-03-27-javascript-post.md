@@ -9,7 +9,7 @@ tags: featured
 Javascript에서 사용자 플랫폼(PC/Mobile 여부)를 판단하여 처리하고자 할때 하기 코드를 참고하세요.
 
 
-```
+```javascript
 
 $(document).ready(function(){
 	
