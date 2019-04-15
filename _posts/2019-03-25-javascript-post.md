@@ -10,7 +10,7 @@ Javascript 사용 중, 아이폰에서 Click 이벤트가 작동하지 않는 �
 click 이벤트를 거는 경우, cursor 속성을 지정하면 문제가 해결 됩니다.
 
 
-~~~
+~~~jsp
 <ul id="ul_box">
     <li onclick="javascript:alert('success');" style="cursor: pointer;"></li>
     <li onclick="javascript:alert('success');" class="clickable"></li>
